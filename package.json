@@ -1,0 +1,11 @@
+{
+  "name": "rmq-amqp-mqtt-test",
+  "version": "0.0.1",
+  "author": "Matvez Vucnik <matevz.vucnik@ijs.si>",
+  "description": "AMQP and MQTT interoperability test with RabbitMQ",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "*",
+    "mqtt": "*"
+  }
+}
