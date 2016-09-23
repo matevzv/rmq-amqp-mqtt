@@ -5,7 +5,7 @@
   "description": "AMQP and MQTT interoperability test with RabbitMQ",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "*",
+    "amqp": "*",
     "mqtt": "*"
   }
 }
