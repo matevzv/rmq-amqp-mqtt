@@ -8,5 +8,5 @@ client.on('connect', function () {
 });
 
 client.on('message', function (topic, message) {  
-  console.log('Received message over MQTT: ', message.toString());
+  console.log('Received message over MQTT: ' + message.toString());
 });
